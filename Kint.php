@@ -1,4 +1,9 @@
 <?php
+/**
+ * Kint is a zero-setup debugging tool to output information about variables and stack traces prettily and comfortably.
+ *
+ * https://github.com/raveren/kint
+ */
 
 define('KINT_DIR', dirname(__FILE__) . '/');
 require KINT_DIR . 'config.php';
