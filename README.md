@@ -53,6 +53,7 @@ There are also (currently two) modifiers:
     /// and
 -d($variable); // will run ob_clean() beforehand, so this dump is at the top
                    // of the page. Best used with dd().
+!d($variable); // will simply dump variable wrapped to html comments                   
 ~~~                   
 The latter are possible because the class analyzes the PHP code itself where it was called from.
 
