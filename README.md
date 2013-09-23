@@ -1,7 +1,8 @@
 kint
 ====
 
-kint yii extension
+Original and more features can be found here:
+http://raveren.github.com/kint/
 
 
 Requirements 
